@@ -1,0 +1,23 @@
+{
+  "name": "mini-users-base",
+  "version": "1.0.0",
+  "description": "Mini-project for managing users base. The web-app based on React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkaterinaPushkova/mini-users-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EkaterinaPushkova/mini-users-base/issues"
+  },
+  "homepage": "https://github.com/EkaterinaPushkova/mini-users-base#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
